@@ -1,0 +1,6 @@
+# Anny needs the [warp] extra — see https://github.com/naver/anny#installation
+# Use Python 3.11 or 3.12 if install fails on 3.14.
+anny[warp]
+trimesh
+torch
+roma
